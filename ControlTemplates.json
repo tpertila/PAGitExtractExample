@@ -1,0 +1,114 @@
+[
+  {
+    "Key": "label",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/label",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "label",
+      "OverridableProperties": {},
+      "Version": "2.3.1"
+    }
+  },
+  {
+    "Key": "galleryTemplate",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/galleryTemplate",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "galleryTemplate",
+      "OverridableProperties": {},
+      "Version": "1.0"
+    }
+  },
+  {
+    "Key": "icon",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/icon",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "icon",
+      "OverridableProperties": {},
+      "Version": "2.3.0"
+    }
+  },
+  {
+    "Key": "rectangle",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/shapes/rectangle",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "rectangle",
+      "OverridableProperties": {},
+      "Version": "2.1.0"
+    }
+  },
+  {
+    "Key": "gallery",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/gallery",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "gallery",
+      "OverridableProperties": {},
+      "Version": "2.11.0"
+    }
+  },
+  {
+    "Key": "button",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/button",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "button",
+      "OverridableProperties": {},
+      "Version": "2.0.0"
+    }
+  },
+  {
+    "Key": "screen",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/screen",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "screen",
+      "OverridableProperties": {},
+      "Version": "1.0"
+    }
+  },
+  {
+    "Key": "appinfo",
+    "Value": {
+      "CustomGroupControlTemplateName": "",
+      "FirstParty": true,
+      "Id": "http://microsoft.com/appmagic/appinfo",
+      "IsComponentTemplate": false,
+      "IsCustomGroupControlTemplate": false,
+      "LastModifiedTimestamp": "0",
+      "Name": "appinfo",
+      "OverridableProperties": {},
+      "Version": "1.0"
+    }
+  }
+]

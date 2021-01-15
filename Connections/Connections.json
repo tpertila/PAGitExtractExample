@@ -1,0 +1,28 @@
+{
+  "9d6806d6-0afd-4bc7-bf86-1316f304c4a6": {
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-210a76b5-6243-4926-9d59-1d779b6be720",
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1431/1.0.1431.2301/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://forwardforever.sharepoint.com/sites/Timontestejjademoja": {
+        "dataSources": {
+          "CanvasImportTest": {
+            "tableName": "5ce71674-f444-45f6-b14c-6113473694b4"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "CanvasImportTest"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "9d6806d6-0afd-4bc7-bf86-1316f304c4a6"
+  }
+}

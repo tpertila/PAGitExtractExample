@@ -1,0 +1,65 @@
+{
+  "FormatVersion": "0.14",
+  "Header": {
+    "DocVersion": "1.300",
+    "MinVersionToLoad": "1.300",
+    "MSAppStructureVersion": "2.0"
+  },
+  "Properties": {
+    "AppCreationSource": "AppFromScratch",
+    "AppDescription": "",
+    "AppPreviewFlagsKey": [
+      "delayloadscreens",
+      "blockmovingcontrol",
+      "projectionmapping",
+      "usedisplaynamemetadata",
+      "usenonblockingonstartrule",
+      "enhancedgroupcontrol",
+      "useguiddatatypes",
+      "useexperimentalcdsconnector",
+      "useenforcesavedatalimits",
+      "componentauthoring",
+      "reliableconcurrent",
+      "dataTableV2Control",
+      "nativecdsexperimental",
+      "useexperimentalsqlconnector",
+      "enablecdsfileandlargeimage",
+      "enhanceddelegation",
+      "aibuilderserviceenrollment",
+      "enablesummerlandgeospatialfeatures",
+      "enablesummerlandmixedrealityfeatures"
+    ],
+    "Author": "",
+    "ContainsThirdPartyPcfControls": false,
+    "DefaultConnectedDataSourceMaxGetRowsCount": 500,
+    "DocumentAppType": "DesktopOrTablet",
+    "DocumentLayoutHeight": 768,
+    "DocumentLayoutLockOrientation": true,
+    "DocumentLayoutMaintainAspectRatio": true,
+    "DocumentLayoutOrientation": "landscape",
+    "DocumentLayoutScaleToFit": true,
+    "DocumentLayoutWidth": 1366,
+    "DocumentType": "App",
+    "EnableInstrumentation": false,
+    "ErrorCount": 0,
+    "FileID": "39f5ab05-3a56-4640-8a0a-2ce5fdd4a679",
+    "Id": "069b8ac1-bb98-48a8-8a98-c2d2b08fba01",
+    "InstrumentationKey": "",
+    "Name": "TestForGitHub.msapp",
+    "OriginatingVersion": "1.300"
+  },
+  "PublishInfo": {
+    "AppName": "TestForGitHub",
+    "BackgroundColor": "RGBA(0,176,240,1)",
+    "IconColor": "RGBA(255,255,255,1)",
+    "IconName": "Edit",
+    "LogoFileName": "",
+    "PublishDataLocally": false,
+    "PublishResourcesLocally": false,
+    "PublishTarget": "player",
+    "UserLocale": "en-US"
+  },
+  "ScreenOrder": [
+    "Screen1"
+  ]
+}
