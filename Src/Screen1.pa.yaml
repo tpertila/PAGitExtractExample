@@ -75,7 +75,7 @@ Screen1 As screen:
         ZIndex: =4
 
     Button1 As button:
-        Text: ="Button"
+        Text: ="Painike"
         X: =1024
         Y: =486
         ZIndex: =3
